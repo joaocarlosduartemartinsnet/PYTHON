@@ -15,11 +15,3 @@
      <img src="">
   </body>
 </html>
-
-ola = "oi"
-const = {
-       nome: joaoo carlos,
-       idade: 17,
-       
-       languages: {python, c++, c#, html, css, sql, js, php},
- }
